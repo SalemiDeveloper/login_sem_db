@@ -26,3 +26,28 @@ O objetivo principal foi praticar e aprofundar o conhecimento sobre **rotas, con
 ---
 
 ## 📂 Estrutura do Projeto
+/project-root
+│
+├── index.php # Ponto de entrada da aplicação
+├── routes.php # Definição das rotas
+├── controllers/ # Controladores
+├── views/ # Telas do sistema
+└── assets/ # Arquivos estáticos (css/js)
+
+## 🔐 Como Funciona o Login
+
+- As credenciais são simuladas diretamente no código.
+- O sistema utiliza sessões (`$_SESSION`) para controlar o estado de autenticação.
+- Caso o usuário não esteja autenticado, o acesso às rotas protegidas é bloqueado.
+- Não há persistência em banco de dados — os dados são fixos para fins educacionais.
+
+---
+
+## 📚 Conceitos Praticados
+
+- Rotas manuais em PHP
+- Separação de responsabilidades
+- Controle de sessão
+- Redirecionamento
+- Tratamento de requisições GET e POST
+- Estruturação de aplicação sem framework
