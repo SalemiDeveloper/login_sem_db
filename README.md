@@ -21,7 +21,7 @@ O objetivo principal foi praticar e aprofundar o conhecimento sobre **rotas, con
 - PHP (puro)
 - HTML
 - CSS
-- Servidor local (XAMPP, WAMP ou PHP Built-in Server)
+- Servidor local (Laragon)
 
 ## 🔐 Como Funciona o Login
 
