@@ -29,10 +29,15 @@ O objetivo principal foi praticar e aprofundar o conhecimento sobre **rotas, con
 /project-root
 │
 ├── index.php # Ponto de entrada da aplicação
+
 ├── routes.php # Definição das rotas
+
 ├── controllers/ # Controladores
+
 ├── views/ # Telas do sistema
+
 └── assets/ # Arquivos estáticos (css/js)
+
 
 ## 🔐 Como Funciona o Login
 
